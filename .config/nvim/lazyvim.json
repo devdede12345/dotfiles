@@ -1,0 +1,15 @@
+{
+  "extras": [
+    "lazyvim.plugins.extras.lang.clangd",
+    "lazyvim.plugins.extras.lang.haskell",
+    "lazyvim.plugins.extras.lang.java",
+    "lazyvim.plugins.extras.lang.python",
+    "lazyvim.plugins.extras.lang.tex",
+    "lazyvim.plugins.extras.util.gitui"
+  ],
+  "install_version": 8,
+  "news": {
+    "NEWS.md": "11866"
+  },
+  "version": 8
+}
